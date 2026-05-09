@@ -1,2 +1,2 @@
-# Detec-o-de-Anomalias-em-Transa-es-em-Python
+# Detecção de Anomalias em Transações em Python
 Desafio de projeto baseado em Detecção de Anomalias em Transações em Python
